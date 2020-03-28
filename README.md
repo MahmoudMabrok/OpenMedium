@@ -1,4 +1,6 @@
 # OpenMedium
+[![HitCount](http://hits.dwyl.com/MahmoudMabrok/OpenMedium.svg)](http://hits.dwyl.com/MahmoudMabrok/OpenMedium)
+
 A simple Chrome Extension used to **open medium without a vpn**. 
 
 # Steps 
